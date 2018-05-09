@@ -1,0 +1,402 @@
+@import url(reset.css);
+
+html, body {
+	height: 100%;
+}
+
+#top_line {
+	background: #090909;
+	height: 10px;
+	margin-bottom: 10px;
+}
+
+#wrapper {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.header {
+	height: 300px;	
+}
+
+.header-img {
+	height: 300px;
+}
+
+.top-menu {
+	width: 318px;
+	height: 40px;
+	float: right;	
+	margin-top: 250px;
+}
+
+.name-menu-place-top {
+	width: 318px;
+	height: 40px;	
+}
+
+.lamborghini_top, .models_top, .concept_top {
+	float: right;
+	height: 40px;
+	width: 130px;
+}
+
+#concept_top, #models_top, #lamborghini_top {
+	background-color: #282722;
+	position: absolute;
+	height: 40px;
+	width: 130px;
+	font: 15px/2.7 Arial, Verdana, Tahoma, Sans-serif;
+	text-indent: 14px;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#models_top {	
+	width: 90px;	
+	text-indent: 12px;
+}
+
+.models_top {
+	width: 90px;	
+	left: 130px;
+}
+
+#concept_top {	
+	width: 98px;	
+	text-indent: 10px;
+}
+
+.concept_top {
+	width: 98px;
+	left: 220px;
+}
+
+#concept_top:hover, #models_top:hover, #lamborghini_top:hover, #concept_bottom:hover, #models_bottom:hover, #lamborghini_bottom:hover {
+	background-color: #494846;
+}
+
+.logo-place {
+	float: left;
+	height: 100px;
+	margin-top: 50px;
+	background-color: #282722;
+}
+
+.logo {
+	float: right;
+	margin-top: 12px;
+	margin-right: 20px;
+	height: 75px;
+	width: 67px;
+	position: relative;
+}
+
+.logo a {
+	height: 75px;
+	width: 67px;
+	position: absolute;
+}
+
+.logo:hover {
+	margin-top: 13px;
+	margin-right: 21px;
+}
+
+#middle-line-top {
+	background: #090909;
+	height: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#content {
+	height: 1720px;
+}
+
+.content-left-column {
+	float: left;
+	width: 400px;
+	height: 1720px;
+}
+
+.left-column-img-old_2, .left-column-img-old_3, .left-column-img-old_4, .left-column-img-old_5, .left-column-img-old_1 {
+	height: 310px;
+	background: #dadad8;
+}
+
+.left-column-img-old_1 {
+	height: 360px;	
+}
+
+.content-header-place, .content-header-place_1 {
+	width: 400px;
+	height: 30px;
+	float: left;	
+	margin-top: 10px;
+	background-color: #635a55;
+}
+
+.content-header-place_1 {
+	width: 300px;	
+}
+
+.years-place-img-old_1, .years-place-img-old_2, .years-place-img-old_3, .years-place-img-old_4, .years-place-img-old_5 {
+	float: left;
+	width: 165px;
+	height: 30px;
+	margin-top: 20px;
+	background-color: #635a55;
+}
+
+.years-place-img-old_2 {
+	margin-top: 22px;
+}
+
+.years-place-img-old_3 {
+	margin-top: 13px;
+}
+
+.years-place-img-old_4 {
+	margin-top: 10px;
+}
+
+.years-place-img-old_5 {
+	margin-top: 10px;
+}
+
+.years-place-img-old_1 p, .years-place-img-old_2 p, .years-place-img-old_3 p, .years-place-img-old_4 p, .years-place-img-old_5 p {
+	margin-top: 4px;
+	margin-left: 85px;
+	font: 14px/1.6 Arial, Verdana, Tahoma, Sans-serif;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.img-place-old_1, .img-place-old_2, .img-place-old_3, .img-place-old_4, .img-place-old_5 {
+	float: left;
+	width: 390px;
+	height: 199px;
+	margin-top: 10px;
+	background-color: #93a4ae;
+}
+
+.img-place-old_2 {	
+	height: 187px;	
+}
+
+.img-place-old_3 {	
+	height: 204px;	
+}
+
+.img-place-old_4 {	
+	height: 210px;	
+}
+
+.img-place-old_5 {	
+	height: 210px;	
+}
+
+.logo-old_1, .logo-old_2, .logo-old_3, .logo-old_4, .logo-old_5 {
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+.logo-old_1 img, .logo-old_2 img, .logo-old_3 img, .logo-old_4 img, .logo-old_5 img {
+	border: 5px solid #93a4ae;
+}
+
+.logo-old_1 img:hover, .logo-old_2 img:hover, .logo-old_3 img:hover, .logo-old_4 img:hover, .logo-old_5 img:hover {
+	border: 5px solid #dadad8;
+}
+
+.name-place-img-old_1, .name-place-img-old_2, .name-place-img-old_3, .name-place-img-old_4, .name-place-img-old_5 {
+	float: left;
+	width: 330px;
+	height: 30px;
+	margin-top: 10px;
+	background-color: #635a55;
+}
+
+.name-place-img-old_1 p, .name-place-img-old_2 p, .name-place-img-old_3 p, .name-place-img-old_4 p, .name-place-img-old_5 p {
+	float: right;
+	margin-top: 4px;
+	margin-right: 10px;
+	font: 14px/1.6 Arial, Verdana, Tahoma, Sans-serif;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.left-column-line {
+	background: #090909;
+	height: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.content-right-column {
+	float: right;
+	width: 624px;
+	height: 1720px;
+	background: #edf2f5;
+}
+
+.content-right-column:hover {
+	background: #e1ecf3;
+}
+
+.content-header-place_1 p {
+	margin-top: 4px;
+	margin-left: 110px;
+	font: 14px/1.6 Arial, Verdana, Tahoma, Sans-serif;
+	color: #eaaf22;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.content-text {
+	margin-top: 60px;
+	margin-left: 20px;
+	margin-right: 20px;	
+}
+
+.content-text p {	
+	font: 14px/1.6 Arial, Tahoma, Verdana, sans-serif;
+	text-indent: 16px;
+}
+
+#middle-line-bottom {
+	background: #090909;
+	height: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;	
+}
+
+.footer {
+	height: 400px;
+}
+
+.footer-img {
+	height: 400px;
+	position: relative;
+}
+
+.bottom-menu {
+	float: left;
+	margin-left: 60px;
+	width: 180px;
+	height: 114px;
+}
+
+.bottom-menu:hover {
+	margin-left: 65px;
+}
+
+.name-menu-place-bottom {
+	width: 180px;
+	height: 114px;
+}
+
+.lamborghini_bottom, .models_bottom, .concept_bottom {
+	width: 180px;
+	height: 37px;
+}
+
+#concept_bottom, #models_bottom, #lamborghini_bottom {
+	background-color: #282722;
+	position: absolute;
+	height: 37px;
+	width: 180px;
+	font: 15px/2.5 Arial, Verdana, Tahoma, Sans-serif;
+	text-indent: 30px;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.about-autor-place {
+	float: right;
+	margin-top: 360px;
+	width: 495px;
+	height: 20px;	
+}
+
+.about-autor-place:hover {
+	margin-top: 358px;
+}
+
+.about-autor-place p {
+	float: left;
+	margin-top: 2px;
+	color: white;
+}
+
+.vk-autor-adress {
+	float: right;
+	margin-top: 1px;
+	margin-left: 15px;
+	width: 360px;
+	height: 20px;
+	background: #282722;
+}
+
+.vk-autor-adress p {
+	padding-left: 10px;
+	color: black;
+}
+
+.vk-autor-adress a {
+	color: #ef9e34;
+	text-decoration: none;
+	font: inherit;
+	text-indent: 10px;
+}
+
+.vk-autor-adress a:hover {
+	color: #fff;
+}
+
+#bottom_line {
+	background: #090909;
+	height: 10px;
+	margin-top: 10px;
+}
+
+#big_photo_concept_button {
+	position: absolute;
+	top: 167px;
+	left: 745px;
+	width: 30px;
+	height: 25px;	
+}
+
+#big_photo_concept_button a {
+	position: absolute;
+	width: 30px;
+	height: 25px;
+}
+
+.close-site {
+	position: absolute;
+	top: 7px;
+	left: 970px;
+	width: 55px;
+	height: 20px;
+}
+
+.close-site:hover {
+	left: 971px;
+}
+
+.close-site a {
+	position: absolute;
+	width: 55px;
+	height: 20px;
+	font: 18px/1.4 Arial, Verdana, Tahoma, Sans-serif;
+	color: #d32828;
+	font-weight: bold;
+	text-decoration: none;
+}

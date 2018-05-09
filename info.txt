@@ -1,0 +1,5 @@
+1. запустите значек index.html
+2. приложение разработано исключительно как для ознакомления с всемирно известной маркой спортивных автомобилей Lamborghini,
+так и для тренировки приобретенных знаний в вэб разработке.
+(The application is designed exclusively to familiarize with the world-famous brand of sports cars Lamborghini,
+and for training acquired knowledge in web development).

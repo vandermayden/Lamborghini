@@ -1,0 +1,383 @@
+@import url(reset.css);
+
+.animation-wrapper-open-site {
+	height: 100%;
+	width: 100%;
+	min-height: 660px;
+	background: #282722;
+	position: relative;
+}
+
+#animation_top_line {
+	background: #090909;
+	height: 10px;
+	margin-bottom: 10px;
+}
+
+#animation_bottom_line {
+	background: #090909;
+	height: 10px;
+	margin-top: 10px;
+}
+
+#animation-list-open-site {
+	background: #fff;
+	width: 10px;
+	height: 10px;
+	margin: 0 auto;	
+	position: absolute;
+	top: 49.3%;
+	position: relative;
+}
+
+#animation_wrapper_top_line, #animation_wrapper_bottom_line, #animation_wrapper_left_line, #animation_wrapper_right_line {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background: #000;
+	top: 0;
+	left: 0;
+}
+
+#lamborghini_logo_pic {
+	position: absolute;	
+}
+
+#lamborghini_logo_picture, #lamborghini_logo_picture_1 {
+	position: absolute;
+	top: 130px;
+	left: 311px;
+	width: 178px;
+	height: 200px;
+	background: url(../img/animation/logo_animation_2.png) no-repeat;
+}
+
+#lamborghini_automobili_pic {
+	position: absolute;
+	top: 295px;
+	left: 150px;
+	width: 487px;
+	height: 103px;
+	background: url(../img/animation/logo_animation_automobili_1.png) no-repeat;
+}
+
+#header_animation_pic {
+	position: absolute;
+	top: 10px;
+	left: 100px;
+	width: 600px;
+	height: 60px;
+	background: url(../img/animation/logo_animation_head_img_1.png) no-repeat;
+}
+
+#footer_animation_pic {
+	position: absolute;
+	top: 404px;
+	left: 100px;
+	width: 600px;
+	height: 46px;
+	background: url(../img/animation/logo_animation_foot_img_1.png) no-repeat;
+}
+
+#animation_ready, #animation_go {
+	position: absolute;
+	width: 20px;
+	height: 30px;
+	top: 340px;
+	background-color: #635a55;
+}
+
+#animation_go {
+	top: 380px;
+}
+
+#animation-loading-scip {
+	position: absolute;
+	top: 460px;
+	width: 800px;
+	height: 22px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#animation_loading {
+	float: left;
+	height: 22px;
+}
+
+#animation_scip {
+	float: right;
+	height: 22px;
+}
+
+#animation-loading-scip a {
+	font: 14px/1.6 Arial, Verdana, Tahoma, Sans-serif;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+.animation-wrapper-close-site {
+	height: 100%;
+	width: 100%;
+	min-height: 735px;
+	background: #fff;
+	position: relative;
+}
+
+#animation_top_line_close {
+	background: #090909;
+	height: 10px;
+	width: 100%;
+}
+
+#animation_bottom_line_close {
+	background: #090909;
+	height: 10px;
+	width: 100%;
+	position: absolute;
+	top: 99%;
+}
+
+#animation-list-close-site {
+	margin: 0 auto;	
+	position: absolute;
+	top: 50%;
+	margin-top: -327px;
+	width: 1024px;
+	height: 655px;
+	position: relative;
+}
+
+#animation_wrapper_close_top_line, #animation_wrapper_close_bottom_line {	
+	position: absolute;
+	width: 1024px;
+	height: 10px;
+	background: #090909;
+}
+
+#animation_wrapper_close_bottom_line {
+	top: 645px;
+}
+
+#center_close_animation_pic {
+	position: absolute;
+	top: 20px;
+	width: 1024px;
+	height: 615px;
+	background: url(../img/animation/photo_close_1.jpg) no-repeat;
+}
+
+#close_pic_yes_no {
+	position: absolute;
+	top: 90px;
+	width: 415px;
+	height: 180px;
+	background: #282722;
+	position: relative;
+}
+
+#close_pic_yes_no p, #close_pic_yes_no a {
+	font: 18px/1.6 Arial, Verdana, Tahoma, Sans-serif;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	color: #eaaf22;
+}
+
+#close_pic_yes_no a {
+	color: #fff;
+}
+
+#question {
+	position: absolute;
+	top: 40px;
+	left: 45px;
+}
+
+#yes, #no {
+	position: absolute;
+	top: 110px;
+	left: 80px;
+}
+
+#no {
+	left: 160px;
+}
+
+#yes a:hover {
+	color: #d32828;
+}
+
+#no a:hover {
+	color: #eaaf22;
+}
+
+#bye {
+	position: absolute;
+	top: 75px;
+	left: 165px;
+}
+
+#bye_color {
+	color: #fff; 
+}
+
+#logo_exit, #logo_exit_1 {
+	position: absolute;
+	top: 25px;
+	left: 270px;
+	width: 116px;
+	height: 130px;
+	background: url(../img/animation/logo_animation_1.1.png) no-repeat;
+}
+
+#logo_exit:hover {
+	top: 26px;
+	left: 269px;
+}
+
+#animation_wrapper_close_header_line, #animation_wrapper_close_footer_line, #animation_wrapper_close_head_line, #animation_wrapper_close_foot_line {
+	position: absolute;
+	top: 40px;
+	left: 87px;
+	height: 10px;
+	width: 850px;
+	background: #090909;
+}
+
+#animation_wrapper_close_footer_line {
+	top: 582px;
+}
+
+#animation_wrapper_close_head_line, #animation_wrapper_close_foot_line {
+	top: 80px;
+	left: 172px;
+	width: 680px;
+}
+
+#animation_wrapper_close_foot_line {
+	top: 518px;
+}
+
+#header_close_animation_pic, #footer_close_animation_pic {
+	position: absolute;
+	top: 40px;
+	left: 172px;
+	width: 680px;
+	height: 80px;
+	background: url(../img/animation/photo_close_4.jpg) no-repeat;
+}
+
+#footer_close_animation_pic {
+	top: 418px;	
+	background: url(../img/animation/photo_close_6.jpg) no-repeat;
+}
+
+#center_close_animation_place {
+	position: absolute;
+	top: 120px;
+	left: 152px;
+	width: 720px;
+	height: 288px;
+	background: #fff;
+}
+
+#vertikal_line, #vertikal_line_1 {
+	position: absolute;
+	height: 268px;
+	width: 1px;
+	top: 130px;
+	left: 689px;
+	background: #000;
+}
+
+#vertikal_line_1 {	
+	left: 470px;	
+}
+
+#gorizont_line, #gorizont_line_1 {
+	position: absolute;
+	height: 1px;
+	width: 700px;
+	top: 235px;
+	left: 162px;
+	background: #000;
+}
+
+#gorizont_line_1 {	
+	top: 323px;	
+}
+
+#animation_img_close {
+	position: absolute;
+	height: 100px;
+	width: 219px;
+	top: 92px;
+	left: 298px;
+	background: url(../img/animation/photo_close_8.jpg) no-repeat;
+}
+
+#animation_square {
+	position: absolute;
+	height: 180px;
+	width: 120px;
+	top: 89px;
+	left: -120px;
+	background: #fff;
+}
+
+#animation_square_1, #animation_square_2 {
+	position: absolute;
+	height: 228px;
+	width: 182px;
+	top: 290px;
+	left: -30px;
+	background: #282722;
+}
+
+#animation_square_2 {
+	height: 110px;
+	width: 250px;
+	top: 408px;
+}
+
+#animation_about_autor {
+	background: #eaaf22;
+	width: 10px;
+	height: 10px;
+}
+
+#animation_about_autor a {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+}
+
+#animation_about_autor_text {
+	position: absolute;
+	width: 370px;
+	height: 140px;
+	left: 22px;
+	top: 20px;
+}
+
+#animation_about_autor_text p {
+	font: 14px/1.4 Arial, Tahoma, Verdana, sans-serif;
+	text-indent: 16px;
+}
+
+#animation_about_autor_text a {
+	text-decoration: none;
+	color: #eaaf22;
+}
+
+#animation_about_autor_text a:hover {
+	color: blue;
+}
